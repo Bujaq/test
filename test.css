@@ -1,0 +1,17 @@
+a,p,input {
+    width: 20%;
+    height: 2em;
+    background-image: linear-gradient(aquamarine, skyblue, blueviolet);
+    padding: 1px 48px 8px 6px;
+    border-radius: 0% 50% 50% 0;
+    border-width: thick;
+    letter-spacing: 8px;
+    filter: drop-shadow(-167px 0px 25px darkred);
+    position: relative;
+    border-style: ridge;
+    color: silver;
+    background-image: linear-gradient(ghostwhite, black, cornsilk) !important;
+    box-shadow: 0 0 21px 9px whitesmoke;
+    border-width: 4px 3px 3px 3px;
+    cursor: pointer;
+}
