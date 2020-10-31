@@ -1,4 +1,4 @@
-a,p,input {
+* {
     width: 20%;
     height: 2em;
     background-image: linear-gradient(aquamarine, skyblue, blueviolet);
